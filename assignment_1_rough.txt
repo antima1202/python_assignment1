@@ -1,0 +1,22 @@
+def checkState
+#list = forbidedStateList
+def checkZipcode
+#int zipcode #isconsecutive
+def checkMonth
+#int date  #char month #isMonday
+def checkAge
+#age>=21
+def authenticateEmail
+#@ + .+ com
+
+class Customers (parent class)
+#fetch details
+class Location
+#State and checkZipcode
+class Birthday
+#birth month and age
+class authentication
+#email
+class Orders
+
+
